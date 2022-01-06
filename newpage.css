@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display:wght@500&family=Poppins:wght@200;300;400;700&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -14,17 +13,8 @@ body {
   height: 100%;
 }
 .main {
-  height: 60vh;
+  height: 70vh;
   background: var(--back-color);
-}
-
-.layer-six h1 {
-  font-family: "Playfair Display", serif;
-  font-size: 3rem;
-  letter-spacing: 4px;
-}
-.layer-six a:hover {
-  color: black;
 }
 
 /* SEARCHING PART BEGIN */
@@ -149,7 +139,7 @@ body {
   font-size: 15px;
   color: var(--main-color);
 }
-/* top part THREE*/
+/* /* top part THREE*/
 .layer-three {
   display: flex;
   justify-content: space-between;
@@ -237,63 +227,7 @@ body {
   /* visibility: hidden; */
 }
 
-/* colors */
-#gold-color {
-  width: 35px;
-  height: 20px;
-  background-image: linear-gradient(yellow, pink);
-}
-#red-color {
-  width: 35px;
-  height: 20px;
-  background-image: linear-gradient(red, pink);
-}
-#rose-gold-color {
-  width: 35px;
-  height: 20px;
-  background-image: linear-gradient(white, pink);
-}
-#pink-color {
-  width: 35px;
-  height: 20px;
-  background-image: linear-gradient(pink, purple);
-}
-#black-color {
-  width: 35px;
-  height: 20px;
-  background-image: linear-gradient(black, black);
-}
-#blue-color {
-  width: 35px;
-  height: 20px;
-  background-image: linear-gradient(blue, white);
-}
-#green-color {
-  width: 35px;
-  height: 20px;
-  background-image: linear-gradient(green, white);
-}
-#white-color {
-  width: 35px;
-  height: 20px;
-  background-image: linear-gradient(white, white);
-}
-#silver-color {
-  width: 35px;
-  height: 20px;
-  background-image: linear-gradient(lightgrey, grey);
-}
-#gray-color {
-  width: 35px;
-  height: 20px;
-  background-image: linear-gradient(gray, gray);
-}
-.spans {
-  cursor: pointer;
-  vertical-align: top;
-}
-
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1000px){
   .container {
     /* display: grid; */
     grid-template-columns: 1fr 1fr;

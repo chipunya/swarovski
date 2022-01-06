@@ -58,7 +58,7 @@ export const getData = () => {
       name: "octea lux watch",
       bracelet: "leather strap",
       color: "blue",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5516305",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_1.0,f_auto,w_400/5516305_png/octea-lux-%E8%85%95%E8%A1%A8--%E6%9C%88%E4%BA%AE--%E7%9C%9F%E7%9A%AE%E8%A1%A8%E5%B8%A6--%E8%93%9D%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5516305.png",
@@ -80,7 +80,7 @@ export const getData = () => {
       name: "crystalline chic watch",
       bracelet: "metal bracelet",
       color: "silver",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5544583",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_1.0,f_auto,w_400/5544583_png/crystalline-chic-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E9%93%B6%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5544583.png",
@@ -124,7 +124,7 @@ export const getData = () => {
       name: "octea lux chrono watch",
       bracelet: "metal bracelet",
       color: "gray",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5452504",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5452504_png/octea-lux-chrono-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E7%81%B0%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5452504.png",
@@ -212,7 +212,7 @@ export const getData = () => {
       name: "crystalline sporty watch",
       bracelet: "leather strap",
       color: "blue",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5547629",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5547629_png/crystalline-sporty-%E8%85%95%E8%A1%A8--%E7%9C%9F%E7%9A%AE%E8%A1%A8%E5%B8%A6--%E8%93%9D%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5547629.png",
@@ -476,7 +476,7 @@ export const getData = () => {
       name: "octea lux sport watch",
       bracelet: "metal bracelet",
       color: "blue",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5610475",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5610475_png/octea-lux-sport-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E8%93%9D%E8%89%B2-pvd-swarovski-5610475.png",
@@ -487,7 +487,7 @@ export const getData = () => {
       name: "octea lux sport watch",
       bracelet: "metal bracelet",
       color: "black",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5610520",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5610520_png/octea-lux-sport-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E9%BB%91%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5610520.png",
@@ -520,7 +520,7 @@ export const getData = () => {
       name: "attract watch",
       bracelet: "metal bracelet",
       color: "white",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5610490",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5610490_png/attract-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E7%99%BD%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5610490.png",
@@ -542,7 +542,7 @@ export const getData = () => {
       name: "octea lux sport watch",
       bracelet: "metal bracelet",
       color: "black",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5610472",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5610472_png/octea-lux-sport-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E9%BB%91%E8%89%B2-pvd-%E7%94%B5%E9%95%80-swarovski-5610472.png",
@@ -575,7 +575,7 @@ export const getData = () => {
       name: "octea lux sport watch",
       bracelet: "metal bracelet",
       color: "white",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5610494",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5610494_png/octea-lux-sport-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E7%99%BD%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5610494.png",
@@ -597,7 +597,7 @@ export const getData = () => {
       name: "octea lux sport watch",
       bracelet: "metal bracelet",
       color: "blue",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5610481",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5610481_png/octea-lux-sport-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E8%93%9D%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5610481.png",
@@ -608,7 +608,7 @@ export const getData = () => {
       name: "crystalline delight watch",
       bracelet: "metal bracelet",
       color: "blue",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5580533",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5580533_png/crystalline-delight-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E8%93%9D%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5580533.png",
@@ -630,7 +630,7 @@ export const getData = () => {
       name: "octea lux chrono watch",
       bracelet: "leather strap",
       color: "blue",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5580600",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5580600_png/octea-lux-chrono-%E8%85%95%E8%A1%A8--%E7%9C%9F%E7%9A%AE%E8%A1%A8%E5%B8%A6--%E8%93%9D%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5580600.png",
@@ -663,7 +663,7 @@ export const getData = () => {
       name: "crystalline delight watch",
       bracelet: "metal bracelet",
       color: "white",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5580537",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5580537_png/crystalline-delight-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E7%99%BD%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5580537.png",
@@ -685,7 +685,7 @@ export const getData = () => {
       name: "passage chrono watch",
       bracelet: "leather strap",
       color: "blue",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5580342",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5580342_png/passage-chrono-%E8%85%95%E8%A1%A8--%E7%9C%9F%E7%9A%AE%E8%A1%A8%E5%B8%A6--%E8%93%9D%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5580342.png",
@@ -718,7 +718,7 @@ export const getData = () => {
       name: "duo watch",
       bracelet: "leather strap",
       color: "blue",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5484376",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5484376_png/duo-%E8%85%95%E8%A1%A8--%E7%9C%9F%E7%9A%AE%E8%A1%A8%E5%B8%A6--%E8%93%9D%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5484376.png",
@@ -762,7 +762,7 @@ export const getData = () => {
       name: "octea lux watch",
       bracelet: "metal bracelet",
       color: "silver",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5414429",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5414429_png/octea-lux-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E9%93%B6%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5414429.png",
@@ -817,7 +817,7 @@ export const getData = () => {
       name: "cocktail watch",
       bracelet: "metal bracelet",
       color: "silver",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5519330",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5519330_png/cocktail-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E9%93%B6%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5519330.png",
@@ -839,7 +839,7 @@ export const getData = () => {
       name: "cosmopolitan watch",
       bracelet: "metal bracelet",
       color: "blue",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5517790",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5517790_png/cosmopolitan-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E8%93%9D%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5517790.png",
@@ -861,7 +861,7 @@ export const getData = () => {
       name: "eternal watch",
       bracelet: "metal bracelet",
       color: "silver",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5377545",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5377545_png/eternal-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E9%93%B6%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5377545.png",
@@ -872,7 +872,7 @@ export const getData = () => {
       name: "cosmic rock watch",
       bracelet: "metal bracelet",
       color: "silver",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5376080",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5376080_png/cosmic-rock-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E9%93%B6%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5376080.png",
@@ -883,7 +883,7 @@ export const getData = () => {
       name: "crystalline glam watch",
       bracelet: "leather strap",
       color: "blue",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5537961",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5537961_png/crystalline-glam-%E8%85%95%E8%A1%A8--%E7%9C%9F%E7%9A%AE%E8%A1%A8%E5%B8%A6--%E8%93%9D%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5537961.png",
@@ -938,7 +938,7 @@ export const getData = () => {
       name: "crystalline glam watch",
       bracelet: "metal bracelet",
       color: "silver",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5455108",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5455108_png/crystalline-glam-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E9%93%B6%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5455108.png",
@@ -960,7 +960,7 @@ export const getData = () => {
       name: "crystal rose watch",
       bracelet: "metal bracelet",
       color: "silver",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5483853",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5483853_png/crystal-rose-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E9%93%B6%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5483853.png",
@@ -982,7 +982,7 @@ export const getData = () => {
       name: "cosmopolitan watch",
       bracelet: "metal bracelet",
       color: "silver",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5517807",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5517807_png/cosmopolitan-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E9%93%B6%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5517807.png",
@@ -993,7 +993,7 @@ export const getData = () => {
       name: "dream rock watch",
       bracelet: "metal bracelet",
       color: "silver",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5519309",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5519309_png/dream-rock-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E9%93%B6%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5519309.png",
@@ -1015,7 +1015,7 @@ export const getData = () => {
       name: "octea nova watch",
       bracelet: "milanese strap",
       color: "black",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5430420",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5430420_png/octea-nova-%E8%85%95%E8%A1%A8--%E9%BB%91%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5430420.png",
@@ -1026,7 +1026,7 @@ export const getData = () => {
       name: "uptown watch",
       bracelet: "leather strap",
       color: "blue",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5547713",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5547713_png/uptown-%E8%85%95%E8%A1%A8--%E7%9C%9F%E7%9A%AE%E8%A1%A8%E5%B8%A6--%E8%93%9D%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5547713.png",
@@ -1059,7 +1059,7 @@ export const getData = () => {
       name: "crystal flower watch",
       bracelet: "metal bracelet",
       color: "silver",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5547622",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5547622_png/crystal-flower-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E9%93%B6%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5547622.png",
@@ -1125,7 +1125,7 @@ export const getData = () => {
       name: "crystalline glam watch",
       bracelet: "metal bracelet",
       color: "gray",
-      dial: "stainless-steel",
+      dial: "stainless steel",
       id: "5452468",
       imageSrc:
         "https://asset.swarovski.com/images/$size_610/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5452468_png/crystalline-glam-%E8%85%95%E8%A1%A8--%E9%87%91%E5%B1%9E%E6%89%8B%E9%93%BE--%E7%81%B0%E8%89%B2--%E4%B8%8D%E9%94%88%E9%92%A2-swarovski-5452468.png",
